@@ -1,2 +1,2 @@
-console.log("hello899999");
+ptint.log("hello899999");
 //hekkk

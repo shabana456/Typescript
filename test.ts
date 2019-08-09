@@ -1,2 +1,4 @@
-console.log("hello world")
+console11111.log("hello world"){
+    
+}
 console.log("");

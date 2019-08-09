@@ -1,1 +1,11 @@
-console.log("hello")
+
+
+
+
+class test{
+    display(){
+       console.log( "Hello world!!");
+    }
+
+
+}
